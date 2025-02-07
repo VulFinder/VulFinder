@@ -1178,3 +1178,618 @@ Pairs of downstream applications and depedency where the vulnerabilty can be exp
  </tr>
 </tbody></table>
 
+Negativa dataset
+
+<table class="MsoTableGrid" border="1" cellspacing="0" cellpadding="0" width="519" style="width:389.6pt;border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
+ mso-yfti-tbllook:1184;mso-padding-alt:0cm 5.4pt 0cm 5.4pt">
+ <tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:14.25pt">
+  <td width="85" nowrap="" valign="top" style="width:63.55pt;border:solid windowtext 1.0pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.25pt">
+  <p class="MsoNormal" align="left" style="text-align:left;mso-pagination:widow-orphan"><b><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Times New Roman&quot;,serif;
+  mso-fareast-font-family:等线;color:black;mso-font-kerning:0pt">Language<o:p></o:p></span></b></p>
+  </td>
+  <td width="151" nowrap="" valign="top" style="width:4.0cm;border:solid windowtext 1.0pt;
+  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.25pt">
+  <p class="MsoNormal" align="left" style="text-align:left;mso-pagination:widow-orphan"><b><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Times New Roman&quot;,serif;
+  mso-fareast-font-family:等线;color:black;mso-font-kerning:0pt">Vulnerability<o:p></o:p></span></b></p>
+  </td>
+  <td width="284" nowrap="" valign="top" style="width:212.65pt;border:solid windowtext 1.0pt;
+  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.25pt">
+  <p class="MsoNormal" align="left" style="text-align:left;mso-pagination:widow-orphan"><b><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Times New Roman&quot;,serif;
+  mso-fareast-font-family:等线;color:black;mso-font-kerning:0pt">Downstream
+  Application<o:p></o:p></span></b></p>
+  </td>
+ </tr>
+ <tr style="mso-yfti-irow:1;height:14.25pt">
+  <td width="85" nowrap="" rowspan="23" valign="top" style="width:63.55pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:14.25pt">
+  <p class="MsoNormal" align="left" style="text-align:left;mso-pagination:widow-orphan"><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Times New Roman&quot;,serif;
+  mso-fareast-font-family:等线;color:black;mso-font-kerning:0pt">Java<o:p></o:p></span></p>
+  </td>
+  <td width="151" nowrap="" valign="top" style="width:4.0cm;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.25pt">
+  <p class="MsoNormal" align="left" style="text-align:left;mso-pagination:widow-orphan"><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Times New Roman&quot;,serif;
+  mso-fareast-font-family:等线;color:black;mso-font-kerning:0pt">CVE-2020-13956<o:p></o:p></span></p>
+  </td>
+  <td width="284" nowrap="" valign="top" style="width:212.65pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.25pt">
+  <p class="MsoNormal" align="left" style="text-align:left;mso-pagination:widow-orphan"><u><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Times New Roman&quot;,serif;
+  mso-fareast-font-family:等线;color:#0563C1;mso-font-kerning:0pt"><a href="https://github.com/LWHTarena/netty/blob/ece5a721af9e6b68a70d71de7a27ac32db18e7f4/netty-client/src/main/java/com/lwhtarena/netty/tutorial02/httpClient/ClientAbortMethod.java">LWHTarena/netty</a><o:p></o:p></span></u></p>
+  </td>
+ </tr>
+ <tr style="mso-yfti-irow:2;height:14.25pt">
+  <td width="151" nowrap="" valign="top" style="width:4.0cm;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.25pt">
+  <p class="MsoNormal" align="left" style="text-align:left;mso-pagination:widow-orphan"><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Times New Roman&quot;,serif;
+  mso-fareast-font-family:等线;color:black;mso-font-kerning:0pt">CVE-2020-13956<o:p></o:p></span></p>
+  </td>
+  <td width="284" nowrap="" valign="top" style="width:212.65pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.25pt">
+  <p class="MsoNormal" align="left" style="text-align:left;mso-pagination:widow-orphan"><u><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Times New Roman&quot;,serif;
+  mso-fareast-font-family:等线;color:#0563C1;mso-font-kerning:0pt"><a href="https://github.com/PacktPublishing/Java-9-Cookbook/blob/d3109e552bc026cc4733756e294619b9a2d6e299/Chapter11/5_apache_http_demo/src/http.client.demo/com/packt/ApacheHttpClientDemo.java">PacktPublishing/Java-9</a><o:p></o:p></span></u></p>
+  </td>
+ </tr>
+ <tr style="mso-yfti-irow:3;height:14.25pt">
+  <td width="151" nowrap="" valign="top" style="width:4.0cm;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.25pt">
+  <p class="MsoNormal" align="left" style="text-align:left;mso-pagination:widow-orphan"><u><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Times New Roman&quot;,serif;
+  mso-fareast-font-family:等线;color:#0563C1;mso-font-kerning:0pt"><a href="https://security.snyk.io/vuln/SNYK-JAVA-ORGAPACHEHTTPCOMPONENTS-31517" target="_parent">HTTPCLIENT-1803</a><o:p></o:p></span></u></p>
+  </td>
+  <td width="284" nowrap="" valign="top" style="width:212.65pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.25pt">
+  <p class="MsoNormal" align="left" style="text-align:left;mso-pagination:widow-orphan"><u><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Times New Roman&quot;,serif;
+  mso-fareast-font-family:等线;color:#0563C1;mso-font-kerning:0pt"><a href="https://github.com/routerabfrage/badlion-src/blob/93a099e711f1e91f432fcf2aff084cf73d6b2c82/org/apache/http/client/utils/URIUtils.java">routerabfrage/badlion-src</a><o:p></o:p></span></u></p>
+  </td>
+ </tr>
+ <tr style="mso-yfti-irow:4;height:14.25pt">
+  <td width="151" nowrap="" valign="top" style="width:4.0cm;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.25pt">
+  <p class="MsoNormal" align="left" style="text-align:left;mso-pagination:widow-orphan"><u><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Times New Roman&quot;,serif;
+  mso-fareast-font-family:等线;color:#0563C1;mso-font-kerning:0pt"><a href="https://security.snyk.io/vuln/SNYK-JAVA-ORGAPACHEHTTPCOMPONENTS-31517" target="_parent">HTTPCLIENT-1803</a><o:p></o:p></span></u></p>
+  </td>
+  <td width="284" nowrap="" valign="top" style="width:212.65pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.25pt">
+  <p class="MsoNormal" align="left" style="text-align:left;mso-pagination:widow-orphan"><u><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Times New Roman&quot;,serif;
+  mso-fareast-font-family:等线;color:#0563C1;mso-font-kerning:0pt"><a href="https://github.com/Schinzel/atexpose/blob/01ace99d8fb8e391c2299d8ca8b43ee843d0842c/src/main/java/com/atexpose/dispatcher/channels/webchannel/redirect/HostRedirect.java">Schinzel/atexpose</a><o:p></o:p></span></u></p>
+  </td>
+ </tr>
+ <tr style="mso-yfti-irow:5;height:14.25pt">
+  <td width="151" nowrap="" valign="top" style="width:4.0cm;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.25pt">
+  <p class="MsoNormal" align="left" style="text-align:left;mso-pagination:widow-orphan"><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Times New Roman&quot;,serif;
+  mso-fareast-font-family:等线;color:black;mso-font-kerning:0pt">CVE-2020-54087<o:p></o:p></span></p>
+  </td>
+  <td width="284" nowrap="" valign="top" style="width:212.65pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.25pt">
+  <p class="MsoNormal" align="left" style="text-align:left;mso-pagination:widow-orphan"><u><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Times New Roman&quot;,serif;
+  mso-fareast-font-family:等线;color:#0563C1;mso-font-kerning:0pt"><a href="https://github.com/apache/kylin/blob/443c2523e27e86ed397c526f741db62a805b95c4/server-base/src/main/java/org/apache/kylin/rest/service/KylinUserService.java">apache/kylin</a><o:p></o:p></span></u></p>
+  </td>
+ </tr>
+ <tr style="mso-yfti-irow:6;height:14.25pt">
+  <td width="151" nowrap="" valign="top" style="width:4.0cm;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.25pt">
+  <p class="MsoNormal" align="left" style="text-align:left;mso-pagination:widow-orphan"><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Times New Roman&quot;,serif;
+  mso-fareast-font-family:等线;color:black;mso-font-kerning:0pt">CVE-2020-54087<o:p></o:p></span></p>
+  </td>
+  <td width="284" nowrap="" valign="top" style="width:212.65pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.25pt">
+  <p class="MsoNormal" align="left" style="text-align:left;mso-pagination:widow-orphan"><u><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Times New Roman&quot;,serif;
+  mso-fareast-font-family:等线;color:#0563C1;mso-font-kerning:0pt"><a href="https://github.com/liaozihong/SpringBoot-Learning/blob/fb41583ad8e478415e60b0fbca466a15d681e7ce/SpringBoot-Oauth2/src/main/java/com/dashuai/learning/oauth2/config/OAuth2ServerConfig.java">liaozihong/SpringBoot-Learning</a><o:p></o:p></span></u></p>
+  </td>
+ </tr>
+ <tr style="mso-yfti-irow:7;height:14.25pt">
+  <td width="151" nowrap="" valign="top" style="width:4.0cm;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.25pt">
+  <p class="MsoNormal" align="left" style="text-align:left;mso-pagination:widow-orphan"><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Times New Roman&quot;,serif;
+  mso-fareast-font-family:等线;color:black;mso-font-kerning:0pt">CVE-2017-7957<o:p></o:p></span></p>
+  </td>
+  <td width="284" nowrap="" valign="top" style="width:212.65pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.25pt">
+  <p class="MsoNormal" align="left" style="text-align:left;mso-pagination:widow-orphan"><u><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Times New Roman&quot;,serif;
+  mso-fareast-font-family:等线;color:#0563C1;mso-font-kerning:0pt"><a href="https://github.com/TinyGroup/tiny/blob/e9180d10b9a45f18f0f8feca4f45497dffc937b9/framework/org.tinygroup.xstream/src/test/java/test/Test1.java">TinyGroup/tiny</a><o:p></o:p></span></u></p>
+  </td>
+ </tr>
+ <tr style="mso-yfti-irow:8;height:14.25pt">
+  <td width="151" nowrap="" valign="top" style="width:4.0cm;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.25pt">
+  <p class="MsoNormal" align="left" style="text-align:left;mso-pagination:widow-orphan"><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Times New Roman&quot;,serif;
+  mso-fareast-font-family:等线;color:black;mso-font-kerning:0pt">CVE-2017-7957<o:p></o:p></span></p>
+  </td>
+  <td width="284" nowrap="" valign="top" style="width:212.65pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.25pt">
+  <p class="MsoNormal" align="left" style="text-align:left;mso-pagination:widow-orphan"><u><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Times New Roman&quot;,serif;
+  mso-fareast-font-family:等线;color:#0563C1;mso-font-kerning:0pt"><a href="https://github.com/algaworks/curso-fundamentos-java-e-orientacao-a-objetos/blob/4a6386221335b4e90f77769b2c71653f80e22360/Aulas/XML%20Basico/LendoProduto.java">algaworks/curso-fundamentos</a><o:p></o:p></span></u></p>
+  </td>
+ </tr>
+ <tr style="mso-yfti-irow:9;height:14.25pt">
+  <td width="151" nowrap="" valign="top" style="width:4.0cm;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.25pt">
+  <p class="MsoNormal" align="left" style="text-align:left;mso-pagination:widow-orphan"><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Times New Roman&quot;,serif;
+  mso-fareast-font-family:等线;color:black;mso-font-kerning:0pt">CVE-2018-1000632<o:p></o:p></span></p>
+  </td>
+  <td width="284" nowrap="" valign="top" style="width:212.65pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.25pt">
+  <p class="MsoNormal" align="left" style="text-align:left;mso-pagination:widow-orphan"><u><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Times New Roman&quot;,serif;
+  mso-fareast-font-family:等线;color:#0563C1;mso-font-kerning:0pt"><a href="https://github.com/igniterealtime/Openfire/blob/3cd2f68a9312b8488654556a4b1773e349b6c6d0/xmppserver/src/main/java/org/jivesoftware/openfire/forward/Forwarded.java">igniterealtime/Openfire</a><o:p></o:p></span></u></p>
+  </td>
+ </tr>
+ <tr style="mso-yfti-irow:10;height:14.25pt">
+  <td width="151" nowrap="" valign="top" style="width:4.0cm;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.25pt">
+  <p class="MsoNormal" align="left" style="text-align:left;mso-pagination:widow-orphan"><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Times New Roman&quot;,serif;
+  mso-fareast-font-family:等线;color:black;mso-font-kerning:0pt">CVE-2018-1000632<o:p></o:p></span></p>
+  </td>
+  <td width="284" nowrap="" valign="top" style="width:212.65pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.25pt">
+  <p class="MsoNormal" align="left" style="text-align:left;mso-pagination:widow-orphan"><u><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Times New Roman&quot;,serif;
+  mso-fareast-font-family:等线;color:#0563C1;mso-font-kerning:0pt"><a href="https://github.com/zextras-contrib/zm-mailbox2/blob/20b0da8a9c26c7a495fe24a4a7b65b1d070ef56a/common/src/java/com/zimbra/common/soap/ZimbraNamespace.java">zextras-contrib/zm</a><o:p></o:p></span></u></p>
+  </td>
+ </tr>
+ <tr style="mso-yfti-irow:11;height:14.25pt">
+  <td width="151" nowrap="" valign="top" style="width:4.0cm;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.25pt">
+  <p class="MsoNormal" align="left" style="text-align:left;mso-pagination:widow-orphan"><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Times New Roman&quot;,serif;
+  mso-fareast-font-family:等线;color:black;mso-font-kerning:0pt">CVE-2018-1000632<o:p></o:p></span></p>
+  </td>
+  <td width="284" nowrap="" valign="top" style="width:212.65pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.25pt">
+  <p class="MsoNormal" align="left" style="text-align:left;mso-pagination:widow-orphan"><u><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Times New Roman&quot;,serif;
+  mso-fareast-font-family:等线;color:#0563C1;mso-font-kerning:0pt"><a href="https://github.com/Mestway/Patl4J/blob/b8985fdcc818fdb78c14e1831382f15475e186c0/examples/statistics/openfuxml/old/src/org/openfuxml/producer/ejb/FormatOption.java">Mestway/Patl4J</a><o:p></o:p></span></u></p>
+  </td>
+ </tr>
+ <tr style="mso-yfti-irow:12;height:14.25pt">
+  <td width="151" nowrap="" valign="top" style="width:4.0cm;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.25pt">
+  <p class="MsoNormal" align="left" style="text-align:left;mso-pagination:widow-orphan"><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Times New Roman&quot;,serif;
+  mso-fareast-font-family:等线;color:black;mso-font-kerning:0pt">CVE-2018-1000632<o:p></o:p></span></p>
+  </td>
+  <td width="284" nowrap="" valign="top" style="width:212.65pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.25pt">
+  <p class="MsoNormal" align="left" style="text-align:left;mso-pagination:widow-orphan"><u><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Times New Roman&quot;,serif;
+  mso-fareast-font-family:等线;color:#0563C1;mso-font-kerning:0pt"><a href="https://github.com/blindsidenetworks/zimbra-zimlet-bigbluebutton/blob/1c182fd575f36c49de9fae1676ed731eb5d3e4be/extension/out/BigBlueButton/src/Blindside/BigBlueButtonService.java">blindsidenetworks/zimbra-zimlet</a><o:p></o:p></span></u></p>
+  </td>
+ </tr>
+ <tr style="mso-yfti-irow:13;height:14.25pt">
+  <td width="151" nowrap="" valign="top" style="width:4.0cm;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.25pt">
+  <p class="MsoNormal" align="left" style="text-align:left;mso-pagination:widow-orphan"><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Times New Roman&quot;,serif;
+  mso-fareast-font-family:等线;color:black;mso-font-kerning:0pt">CVE-2020-10693<o:p></o:p></span></p>
+  </td>
+  <td width="284" nowrap="" valign="top" style="width:212.65pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.25pt">
+  <p class="MsoNormal" align="left" style="text-align:left;mso-pagination:widow-orphan"><u><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Times New Roman&quot;,serif;
+  mso-fareast-font-family:等线;color:#0563C1;mso-font-kerning:0pt"><a href="https://github.com/project-openubl/xbuilder/blob/8bdb27fe80996a3d5e6bf8a6f70e34c3cc669343/src/main/java/io/github/project/openubl/xmlbuilderlib/models/input/constraints/DocumentLineInputModel_CantidadValidaICBValidator.java">project-openubl/xbuilder</a><o:p></o:p></span></u></p>
+  </td>
+ </tr>
+ <tr style="mso-yfti-irow:14;height:14.25pt">
+  <td width="151" nowrap="" valign="top" style="width:4.0cm;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.25pt">
+  <p class="MsoNormal" align="left" style="text-align:left;mso-pagination:widow-orphan"><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Times New Roman&quot;,serif;
+  mso-fareast-font-family:等线;color:black;mso-font-kerning:0pt">CVE-2020-28491<o:p></o:p></span></p>
+  </td>
+  <td width="284" nowrap="" valign="top" style="width:212.65pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.25pt">
+  <p class="MsoNormal" align="left" style="text-align:left;mso-pagination:widow-orphan"><u><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Times New Roman&quot;,serif;
+  mso-fareast-font-family:等线;color:#0563C1;mso-font-kerning:0pt"><a href="https://github.com/neowu/core-ng-demo-project/blob/f5e39ffbd0ba0f14c3b50530dbe93894db8d4f89/benchmark/src/main/java/core/framework/json/JSONBenchmark.java">neowu/core-ng</a><o:p></o:p></span></u></p>
+  </td>
+ </tr>
+ <tr style="mso-yfti-irow:15;height:14.25pt">
+  <td width="151" nowrap="" valign="top" style="width:4.0cm;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.25pt">
+  <p class="MsoNormal" align="left" style="text-align:left;mso-pagination:widow-orphan"><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Times New Roman&quot;,serif;
+  mso-fareast-font-family:等线;color:black;mso-font-kerning:0pt">CVE-2019-10094<o:p></o:p></span></p>
+  </td>
+  <td width="284" nowrap="" valign="top" style="width:212.65pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.25pt">
+  <p class="MsoNormal" align="left" style="text-align:left;mso-pagination:widow-orphan"><u><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Times New Roman&quot;,serif;
+  mso-fareast-font-family:等线;color:#0563C1;mso-font-kerning:0pt"><a href="https://github.com/gwmccort/examples/blob/dd7d37d74d37a95e8775fe515f2e2d68c9d818b7/Tika/lucene-example-master/src/main/java/gwm/tika/audio/AudioParser.java">gwmccort/examples</a><o:p></o:p></span></u></p>
+  </td>
+ </tr>
+ <tr style="mso-yfti-irow:16;height:14.25pt">
+  <td width="151" nowrap="" valign="top" style="width:4.0cm;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.25pt">
+  <p class="MsoNormal" align="left" style="text-align:left;mso-pagination:widow-orphan"><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Times New Roman&quot;,serif;
+  mso-fareast-font-family:等线;color:black;mso-font-kerning:0pt">CVE-2019-10094<o:p></o:p></span></p>
+  </td>
+  <td width="284" nowrap="" valign="top" style="width:212.65pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.25pt">
+  <p class="MsoNormal" align="left" style="text-align:left;mso-pagination:widow-orphan"><u><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Times New Roman&quot;,serif;
+  mso-fareast-font-family:等线;color:#0563C1;mso-font-kerning:0pt"><a href="https://github.com/wlainer/ia-recruiter/blob/95567676de877c5207069bd6f282b4ee343a01d8/src/main/java/com/vanhackathon/BasicNameFinder.java">wlainer/ia-recruiter</a><o:p></o:p></span></u></p>
+  </td>
+ </tr>
+ <tr style="mso-yfti-irow:17;height:14.25pt">
+  <td width="151" nowrap="" valign="top" style="width:4.0cm;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.25pt">
+  <p class="MsoNormal" align="left" style="text-align:left;mso-pagination:widow-orphan"><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Times New Roman&quot;,serif;
+  mso-fareast-font-family:等线;color:black;mso-font-kerning:0pt">CVE-2018-1274<o:p></o:p></span></p>
+  </td>
+  <td width="284" nowrap="" valign="top" style="width:212.65pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.25pt">
+  <p class="MsoNormal" align="left" style="text-align:left;mso-pagination:widow-orphan"><u><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Times New Roman&quot;,serif;
+  mso-fareast-font-family:等线;color:#0563C1;mso-font-kerning:0pt"><a href="https://github.com/singh4java/spring-data-commons/blob/0237760345faa011bdc6639ec838790be3d41e9b/src/test/java/org/springframework/data/mapping/context/AbstractMappingContextUnitTests.java">singh4java/spring-data</a><o:p></o:p></span></u></p>
+  </td>
+ </tr>
+ <tr style="mso-yfti-irow:18;height:14.25pt">
+  <td width="151" nowrap="" valign="top" style="width:4.0cm;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.25pt">
+  <p class="MsoNormal" align="left" style="text-align:left;mso-pagination:widow-orphan"><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Times New Roman&quot;,serif;
+  mso-fareast-font-family:等线;color:black;mso-font-kerning:0pt">CVE-2021-27568<o:p></o:p></span></p>
+  </td>
+  <td width="284" nowrap="" valign="top" style="width:212.65pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.25pt">
+  <p class="MsoNormal" align="left" style="text-align:left;mso-pagination:widow-orphan"><u><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Times New Roman&quot;,serif;
+  mso-fareast-font-family:等线;color:#0563C1;mso-font-kerning:0pt"><a href="https://github.com/waikato-datamining/adams-base/blob/9ef74ec754d39810fbddb9ec0028ef1ae404ac7d/adams-json/src/test/java/adams/data/conversion/JsonToSpreadSheetTest.java">waikato-datamining/adams</a><o:p></o:p></span></u></p>
+  </td>
+ </tr>
+ <tr style="mso-yfti-irow:19;height:14.25pt">
+  <td width="151" nowrap="" valign="top" style="width:4.0cm;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.25pt">
+  <p class="MsoNormal" align="left" style="text-align:left;mso-pagination:widow-orphan"><u><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Times New Roman&quot;,serif;
+  mso-fareast-font-family:等线;color:#0563C1;mso-font-kerning:0pt"><a href="https://security.snyk.io/vuln/SNYK-JAVA-NETLINGALAZIP4J-1074967" target="_parent">Zip4J-263</a><o:p></o:p></span></u></p>
+  </td>
+  <td width="284" nowrap="" valign="top" style="width:212.65pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.25pt">
+  <p class="MsoNormal" align="left" style="text-align:left;mso-pagination:widow-orphan"><u><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Times New Roman&quot;,serif;
+  mso-fareast-font-family:等线;color:#0563C1;mso-font-kerning:0pt"><a href="https://github.com/sonnk1108/CIDT/blob/7c02095398c534b544f40fab6a1f8dced00d8a49/eclipse-workspace/MailG/src/main/java/ZipFile/AddPass.java">sonnk1108/CIDT</a><o:p></o:p></span></u></p>
+  </td>
+ </tr>
+ <tr style="mso-yfti-irow:20;height:14.25pt">
+  <td width="151" nowrap="" valign="top" style="width:4.0cm;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.25pt">
+  <p class="MsoNormal" align="left" style="text-align:left;mso-pagination:widow-orphan"><u><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Times New Roman&quot;,serif;
+  mso-fareast-font-family:等线;color:#0563C1;mso-font-kerning:0pt"><a href="https://security.snyk.io/vuln/SNYK-JAVA-NETLINGALAZIP4J-1074967" target="_parent">Zip4J-263</a><o:p></o:p></span></u></p>
+  </td>
+  <td width="284" nowrap="" valign="top" style="width:212.65pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.25pt">
+  <p class="MsoNormal" align="left" style="text-align:left;mso-pagination:widow-orphan"><u><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Times New Roman&quot;,serif;
+  mso-fareast-font-family:等线;color:#0563C1;mso-font-kerning:0pt"><a href="https://github.com/genepi/imputationserver/blob/2ee9440e1781b013bd8eb9f8ef40a03329c3a1d3/src/test/java/genepi/imputationserver/steps/ImputationTest.java">genepi/imputationserver</a><o:p></o:p></span></u></p>
+  </td>
+ </tr>
+ <tr style="mso-yfti-irow:21;height:14.25pt">
+  <td width="151" nowrap="" valign="top" style="width:4.0cm;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.25pt">
+  <p class="MsoNormal" align="left" style="text-align:left;mso-pagination:widow-orphan"><u><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Times New Roman&quot;,serif;
+  mso-fareast-font-family:等线;color:#0563C1;mso-font-kerning:0pt"><a href="https://security.snyk.io/vuln/SNYK-JAVA-COMTWELVEMONKEYSIMAGEIO-1083830" target="_parent">TwelveMonkeys-595</a><o:p></o:p></span></u></p>
+  </td>
+  <td width="284" nowrap="" valign="top" style="width:212.65pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.25pt">
+  <p class="MsoNormal" align="left" style="text-align:left;mso-pagination:widow-orphan"><u><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Times New Roman&quot;,serif;
+  mso-fareast-font-family:等线;color:#0563C1;mso-font-kerning:0pt"><a href="https://github.com/erictest-boop/cantci/blob/16bef3c6bec5757f40421b2dd5025eb14e05fe04/src/test/java/edu/illinois/library/cantaloupe/processor/codec/jpeg/JPEGImageWriterTest.java">erictest-boop/cantci</a><o:p></o:p></span></u></p>
+  </td>
+ </tr>
+ <tr style="mso-yfti-irow:22;height:14.25pt">
+  <td width="151" nowrap="" valign="top" style="width:4.0cm;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.25pt">
+  <p class="MsoNormal" align="left" style="text-align:left;mso-pagination:widow-orphan"><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Times New Roman&quot;,serif;
+  mso-fareast-font-family:等线;color:black;mso-font-kerning:0pt">CVE-2017-7957<o:p></o:p></span></p>
+  </td>
+  <td width="284" nowrap="" valign="top" style="width:212.65pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.25pt">
+  <p class="MsoNormal" align="left" style="text-align:left;mso-pagination:widow-orphan"><u><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Times New Roman&quot;,serif;
+  mso-fareast-font-family:等线;color:#0563C1;mso-font-kerning:0pt"><a href="https://github.com/TinyGroup/tiny/blob/e9180d10b9a45f18f0f8feca4f45497dffc937b9/framework/org.tinygroup.xstream/src/test/java/test/Test1.java">TinyGroup/tiny</a><o:p></o:p></span></u></p>
+  </td>
+ </tr>
+ <tr style="mso-yfti-irow:23;height:14.25pt">
+  <td width="151" nowrap="" valign="top" style="width:4.0cm;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.25pt">
+  <p class="MsoNormal" align="left" style="text-align:left;mso-pagination:widow-orphan"><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Times New Roman&quot;,serif;
+  mso-fareast-font-family:等线;color:black;mso-font-kerning:0pt">CVE-2020-10693<o:p></o:p></span></p>
+  </td>
+  <td width="284" nowrap="" valign="top" style="width:212.65pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.25pt">
+  <p class="MsoNormal" align="left" style="text-align:left;mso-pagination:widow-orphan"><u><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Times New Roman&quot;,serif;
+  mso-fareast-font-family:等线;color:#0563C1;mso-font-kerning:0pt"><a href="https://github.com/developframework/resource-manager/blob/3671dac50809fd18368cf14defb0760bd1085be5/resource-manager-jpa/src/main/java/com/github/developframework/resource/spring/jpa/utils/PredicateBuilder.java">developframework/resource-manager</a><o:p></o:p></span></u></p>
+  </td>
+ </tr>
+ <tr style="mso-yfti-irow:24;height:14.25pt">
+  <td width="85" nowrap="" rowspan="13" valign="top" style="width:63.55pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:14.25pt">
+  <p class="MsoNormal" align="left" style="text-align:left;mso-pagination:widow-orphan"><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Times New Roman&quot;,serif;
+  mso-fareast-font-family:等线;color:black;mso-font-kerning:0pt">Python<o:p></o:p></span></p>
+  </td>
+  <td width="151" nowrap="" valign="top" style="width:4.0cm;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.25pt">
+  <p class="MsoNormal" align="left" style="text-align:left;mso-pagination:widow-orphan"><u><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Times New Roman&quot;,serif;
+  mso-fareast-font-family:等线;color:#0563C1;mso-font-kerning:0pt"><a href="https://github.com/pytorch/pytorch/issues/66946" target="_parent">pytorch-66946</a><o:p></o:p></span></u></p>
+  </td>
+  <td width="284" nowrap="" valign="top" style="width:212.65pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.25pt">
+  <p class="MsoNormal" align="left" style="text-align:left;mso-pagination:widow-orphan"><u><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Times New Roman&quot;,serif;
+  mso-fareast-font-family:等线;color:#0563C1;mso-font-kerning:0pt"><a href="https://github.com/amiradridi/Job-Resume-Matching/blob/49680ad1be68e0ff144e03f628dddc13ba944cc3/venv/Lib/site-packages/torch/distributions/half_normal.py#L68">amiradridi/Job-Resume-Matching</a><o:p></o:p></span></u></p>
+  </td>
+ </tr>
+ <tr style="mso-yfti-irow:25;height:14.25pt">
+  <td width="151" nowrap="" valign="top" style="width:4.0cm;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.25pt">
+  <p class="MsoNormal" align="left" style="text-align:left;mso-pagination:widow-orphan"><u><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Times New Roman&quot;,serif;
+  mso-fareast-font-family:等线;color:#0563C1;mso-font-kerning:0pt"><a href="https://github.com/pytorch/pytorch/issues/66946" target="_parent">pytorch-66946</a><o:p></o:p></span></u></p>
+  </td>
+  <td width="284" nowrap="" valign="top" style="width:212.65pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.25pt">
+  <p class="MsoNormal" align="left" style="text-align:left;mso-pagination:widow-orphan"><u><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Times New Roman&quot;,serif;
+  mso-fareast-font-family:等线;color:#0563C1;mso-font-kerning:0pt"><a href="https://github.com/lucadellalib/actorch/blob/2eb60648ce352354d8003c81b01bd046f3498806/actorch/distributions/transformed_distribution.py#L19">lucadellalib/actorch</a><o:p></o:p></span></u></p>
+  </td>
+ </tr>
+ <tr style="mso-yfti-irow:26;height:14.25pt">
+  <td width="151" nowrap="" valign="top" style="width:4.0cm;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.25pt">
+  <p class="MsoNormal" align="left" style="text-align:left;mso-pagination:widow-orphan"><u><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Times New Roman&quot;,serif;
+  mso-fareast-font-family:等线;color:#0563C1;mso-font-kerning:0pt"><a href="https://github.com/pytorch/pytorch/issues/61656" target="_parent">pytorch-61656</a><o:p></o:p></span></u></p>
+  </td>
+  <td width="284" nowrap="" valign="top" style="width:212.65pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.25pt">
+  <p class="MsoNormal" align="left" style="text-align:left;mso-pagination:widow-orphan"><u><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Times New Roman&quot;,serif;
+  mso-fareast-font-family:等线;color:#0563C1;mso-font-kerning:0pt"><a href="https://github.com/tinyvision/SOLIDER/blob/b8779cc5cfaa7d44b277e8305bc42bce377fe8c0/utils.py#L230">tinyvision/SOLIDER</a><o:p></o:p></span></u></p>
+  </td>
+ </tr>
+ <tr style="mso-yfti-irow:27;height:14.25pt">
+  <td width="151" nowrap="" valign="top" style="width:4.0cm;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.25pt">
+  <p class="MsoNormal" align="left" style="text-align:left;mso-pagination:widow-orphan"><u><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Times New Roman&quot;,serif;
+  mso-fareast-font-family:等线;color:#0563C1;mso-font-kerning:0pt"><a href="https://github.com/pytorch/pytorch/issues/54752" target="_parent">pytorch-54752</a><o:p></o:p></span></u></p>
+  </td>
+  <td width="284" nowrap="" valign="top" style="width:212.65pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.25pt">
+  <p class="MsoNormal" align="left" style="text-align:left;mso-pagination:widow-orphan"><u><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Times New Roman&quot;,serif;
+  mso-fareast-font-family:等线;color:#0563C1;mso-font-kerning:0pt"><a href="https://github.com/Vious/LBAM_Pytorch/blob/b9292440e7a7559c027f48d6fd061dcabc41a6bf/train.py#L12">Vious/LBAM_Pytorch</a><o:p></o:p></span></u></p>
+  </td>
+ </tr>
+ <tr style="mso-yfti-irow:28;height:14.25pt">
+  <td width="151" nowrap="" valign="top" style="width:4.0cm;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.25pt">
+  <p class="MsoNormal" align="left" style="text-align:left;mso-pagination:widow-orphan"><u><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Times New Roman&quot;,serif;
+  mso-fareast-font-family:等线;color:#0563C1;mso-font-kerning:0pt"><a href="https://github.com/pytorch/pytorch/issues/52822" target="_parent">pytorch-52822</a><o:p></o:p></span></u></p>
+  </td>
+  <td width="284" nowrap="" valign="top" style="width:212.65pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.25pt">
+  <p class="MsoNormal" align="left" style="text-align:left;mso-pagination:widow-orphan"><u><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Times New Roman&quot;,serif;
+  mso-fareast-font-family:等线;color:#0563C1;mso-font-kerning:0pt"><a href="https://github.com/facebookresearch/lightplane/blob/34fe6c6392028b2993613d4ceeeeec2abadbc1c9/lightplane/renderer_module.py#L412">facebookresearch/lightplane</a><o:p></o:p></span></u></p>
+  </td>
+ </tr>
+ <tr style="mso-yfti-irow:29;height:14.25pt">
+  <td width="151" nowrap="" valign="top" style="width:4.0cm;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.25pt">
+  <p class="MsoNormal" align="left" style="text-align:left;mso-pagination:widow-orphan"><u><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Times New Roman&quot;,serif;
+  mso-fareast-font-family:等线;color:#0563C1;mso-font-kerning:0pt"><a href="https://github.com/pytorch/pytorch/issues/71089" target="_parent">pytorch-71089</a><o:p></o:p></span></u></p>
+  </td>
+  <td width="284" nowrap="" valign="top" style="width:212.65pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.25pt">
+  <p class="MsoNormal" align="left" style="text-align:left;mso-pagination:widow-orphan"><u><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Times New Roman&quot;,serif;
+  mso-fareast-font-family:等线;color:#0563C1;mso-font-kerning:0pt"><a href="https://github.com/3DOM-FBK/COLMAP_SLAM/blob/b8ed49fba5d03b128752cc6b0de9a12f338b39c2/lib/matcher.py#L223">3DOM-FBK/COLMAP_SLAM</a><o:p></o:p></span></u></p>
+  </td>
+ </tr>
+ <tr style="mso-yfti-irow:30;height:14.25pt">
+  <td width="151" nowrap="" valign="top" style="width:4.0cm;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.25pt">
+  <p class="MsoNormal" align="left" style="text-align:left;mso-pagination:widow-orphan"><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Times New Roman&quot;,serif;
+  mso-fareast-font-family:等线;color:black;mso-font-kerning:0pt">CVE-2018-6188<o:p></o:p></span></p>
+  </td>
+  <td width="284" nowrap="" valign="top" style="width:212.65pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.25pt">
+  <p class="MsoNormal" align="left" style="text-align:left;mso-pagination:widow-orphan"><u><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Times New Roman&quot;,serif;
+  mso-fareast-font-family:等线;color:#0563C1;mso-font-kerning:0pt"><a href="https://github.com/doableware/djongo/blob/8b1535e5e25a373a976be8c0f7e7b7cfa69983df/pkg/tests/django_tests/tests/v22/tests/auth_tests/test_forms.py#L6">doableware/djongo</a><o:p></o:p></span></u></p>
+  </td>
+ </tr>
+ <tr style="mso-yfti-irow:31;height:14.25pt">
+  <td width="151" nowrap="" valign="top" style="width:4.0cm;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.25pt">
+  <p class="MsoNormal" align="left" style="text-align:left;mso-pagination:widow-orphan"><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Times New Roman&quot;,serif;
+  mso-fareast-font-family:等线;color:black;mso-font-kerning:0pt">CVE-2018-6188<o:p></o:p></span></p>
+  </td>
+  <td width="284" nowrap="" valign="top" style="width:212.65pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.25pt">
+  <p class="MsoNormal" align="left" style="text-align:left;mso-pagination:widow-orphan"><u><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Times New Roman&quot;,serif;
+  mso-fareast-font-family:等线;color:#0563C1;mso-font-kerning:0pt"><a href="https://github.com/cmu-db/ottertune/blob/9758c65721d2624b813857ba9340d5550e899bda/server/website/website/views.py#L109">cmu-db/ottertune</a><o:p></o:p></span></u></p>
+  </td>
+ </tr>
+ <tr style="mso-yfti-irow:32;height:14.25pt">
+  <td width="151" nowrap="" valign="top" style="width:4.0cm;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.25pt">
+  <p class="MsoNormal" align="left" style="text-align:left;mso-pagination:widow-orphan"><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Times New Roman&quot;,serif;
+  mso-fareast-font-family:等线;color:black;mso-font-kerning:0pt">CVE-2018-7536<o:p></o:p></span></p>
+  </td>
+  <td width="284" nowrap="" valign="top" style="width:212.65pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.25pt">
+  <p class="MsoNormal" align="left" style="text-align:left;mso-pagination:widow-orphan"><u><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Times New Roman&quot;,serif;
+  mso-fareast-font-family:等线;color:#0563C1;mso-font-kerning:0pt"><a href="https://github.com/Uninett/nav/blob/05dfb18cf1f880423943c79d9fac2eb75e20140c/python/nav/web/api/v1/alert_serializers.py#L49">Uninett/nav</a><o:p></o:p></span></u></p>
+  </td>
+ </tr>
+ <tr style="mso-yfti-irow:33;height:14.25pt">
+  <td width="151" nowrap="" valign="top" style="width:4.0cm;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.25pt">
+  <p class="MsoNormal" align="left" style="text-align:left;mso-pagination:widow-orphan"><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Times New Roman&quot;,serif;
+  mso-fareast-font-family:等线;color:black;mso-font-kerning:0pt">CVE-2019-6975<o:p></o:p></span></p>
+  </td>
+  <td width="284" nowrap="" valign="top" style="width:212.65pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.25pt">
+  <p class="MsoNormal" align="left" style="text-align:left;mso-pagination:widow-orphan"><u><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Times New Roman&quot;,serif;
+  mso-fareast-font-family:等线;color:#0563C1;mso-font-kerning:0pt"><a href="https://github.com/uktrade/selling-online-overseas/blob/97d2e4fdb7a051b1a36a50d890c0d303ba123fa8/app/markets/models.py#L338">uktrade/selling-online-overseas</a><o:p></o:p></span></u></p>
+  </td>
+ </tr>
+ <tr style="mso-yfti-irow:34;height:14.25pt">
+  <td width="151" nowrap="" valign="top" style="width:4.0cm;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.25pt">
+  <p class="MsoNormal" align="left" style="text-align:left;mso-pagination:widow-orphan"><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Times New Roman&quot;,serif;
+  mso-fareast-font-family:等线;color:black;mso-font-kerning:0pt">CVE-2018-1000656<o:p></o:p></span></p>
+  </td>
+  <td width="284" nowrap="" valign="top" style="width:212.65pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.25pt">
+  <p class="MsoNormal" align="left" style="text-align:left;mso-pagination:widow-orphan"><u><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Times New Roman&quot;,serif;
+  mso-fareast-font-family:等线;color:#0563C1;mso-font-kerning:0pt"><a href="https://github.com/Python3pkg/DeviceHub/blob/dc040f0b4718c7d488f6dfafbc3b3c95a484cb56/ereuse_devicehub/request.py#L29">Python3pkg/DeviceHub</a><o:p></o:p></span></u></p>
+  </td>
+ </tr>
+ <tr style="mso-yfti-irow:35;height:14.25pt">
+  <td width="151" nowrap="" valign="top" style="width:4.0cm;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.25pt">
+  <p class="MsoNormal" align="left" style="text-align:left;mso-pagination:widow-orphan"><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Times New Roman&quot;,serif;
+  mso-fareast-font-family:等线;color:black;mso-font-kerning:0pt">CVE-2021-23437<o:p></o:p></span></p>
+  </td>
+  <td width="284" nowrap="" valign="top" style="width:212.65pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.25pt">
+  <p class="MsoNormal" align="left" style="text-align:left;mso-pagination:widow-orphan"><u><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Times New Roman&quot;,serif;
+  mso-fareast-font-family:等线;color:#0563C1;mso-font-kerning:0pt"><a href="https://github.com/haoziiy/avatar_generator/blob/e86fe1e97467233cf0465b1775f2c7da1b160f6c/identicon.py#L217">haoziiy/avatar_generator</a><o:p></o:p></span></u></p>
+  </td>
+ </tr>
+ <tr style="mso-yfti-irow:36;mso-yfti-lastrow:yes;height:14.25pt">
+  <td width="151" nowrap="" valign="top" style="width:4.0cm;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.25pt">
+  <p class="MsoNormal" align="left" style="text-align:left;mso-pagination:widow-orphan"><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Times New Roman&quot;,serif;
+  mso-fareast-font-family:等线;color:black;mso-font-kerning:0pt">CVE-2021-23437<o:p></o:p></span></p>
+  </td>
+  <td width="284" nowrap="" valign="top" style="width:212.65pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.25pt">
+  <p class="MsoNormal" align="left" style="text-align:left;mso-pagination:widow-orphan"><u><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Times New Roman&quot;,serif;
+  mso-fareast-font-family:等线;color:#0563C1;mso-font-kerning:0pt"><a href="https://github.com/tskit-dev/tsinfer/blob/10b3c81df8176c82d943b15c38247cc62238a009/visualisation.py#L243">tskit-dev/tsinfer</a><o:p></o:p></span></u></p>
+  </td>
+ </tr>
+</tbody></table>
+
+
